@@ -1,2 +1,2 @@
 # Alura_Flix
-Projeto para a empresa Alura Flix (ficticia)...
+Um site da empresa AluraFlix, uma empresa de assinatura de cursos online
